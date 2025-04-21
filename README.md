@@ -111,4 +111,10 @@ As imagens abaixo ilustram exemplos dos dashboards:
 *   Consulte os logs dos contêineres (`docker compose logs agent_api`, `docker compose logs agent_sites`) para diagnosticar problemas.
 
 
+---------------------
+https://github.com/ailtonpmz/CI-AzureDevops
+https://github.com/ailtonpmz/Tofu_TJ_Monitoramento
+https://github.com/ailtonpmz/eSM_ansible
+
+
 
